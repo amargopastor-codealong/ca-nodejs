@@ -316,3 +316,5 @@ En desarrollo, se suele usar npm run dev:
   "dev": "nodemon src/app.js",
   "start": "node src/app.js"
 ```
+
+> 🐮 Crea tu primer proyecto avanzado de NODEJS en el proyecto [cowsay](https://github.com/amargopastor-codealong/ca-cowsay).
