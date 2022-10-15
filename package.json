@@ -1,0 +1,26 @@
+{
+	"name": "ca-nodejs",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "nodejs",
+	"main": "app.js",
+	"scripts": {
+		"start": "node random/app.js",
+		"web": "parcel web/index.html"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^5.1.2",
+		"lodash": "^4.17.21",
+		"parcel": "^2.7.0"
+	},
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.40.0",
+		"@typescript-eslint/parser": "^5.40.0",
+		"eslint": "^8.25.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.26.0"
+	}
+}

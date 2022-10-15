@@ -1,0 +1,8 @@
+body {
+	margin: 0;
+}
+#root {
+	border: 1px solid #963f27;
+	padding: 10px;
+	background-color: #fee1d9;
+}
