@@ -145,7 +145,7 @@ Podemos aprovechar los scripts del fichero package.json para establecer la ejecu
 	},
 ```
 
-En ficha de cada uno de los paquetes de npm que descarguemos página desde `[npmjs.com](https://www.npmjs.com/) podemos observar que:
+En la ficha de cada uno de los paquetes de npm que descarguemos desde la página `[npmjs.com](https://www.npmjs.com/) podemos observar que:
 
 - Muchos paquetes de npm tienen su propio GitHub
 - Se indica el número de veces que se ha descargado dicho paquete
